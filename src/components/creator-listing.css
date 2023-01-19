@@ -1,0 +1,14 @@
+/* Styles for the creator listing component */
+
+.creator-listing {
+    border: 1px solid #333;
+    width: -webkit-fill-available;
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px #333;
+}
+
+.creator-categories {
+    padding: 0;
+    list-style-position: inside;
+}

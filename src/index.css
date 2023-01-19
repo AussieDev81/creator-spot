@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Poppins&family=Raleway:wght@100;300;400;700&display=swap');
+
+:root {
+  --primary: #12bca2;
+  --secondary: #6d15df;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  color: #333;
+  font-family: "Poppins";
+  background: #f2f2f2;
+}
+
+nav {
+  background: var(--primary);
+  padding: 10px 20px;
+  text-align: center;
+}
+
+nav a {
+  color: #f2f2f2;
+  margin: 10px;
+  display: inline-block;
+}
+
+nav h1 {
+  color: #fff;
+}
+
+.page {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.creator-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(2, 1fr);
+  justify-items: center;
+}
+
+@media (max-width: 500px) {
+  .creator-grid {
+    grid-template-columns: 1fr;
+  }
+}
