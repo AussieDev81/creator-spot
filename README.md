@@ -1,9 +1,9 @@
 # CreatorSpot
 
-![GitHub forks](https://img.shields.io/github/forks/AussieDev81/creator-spot?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/aussiedev81/creator-spot?style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/AussieDev81/creator-spot?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AussieDev81/creator-spot?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/AussieDev81/creator-spot?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/aussiedev81/creator-spot?style=for-the-badge)
 
 
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
