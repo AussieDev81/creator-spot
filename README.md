@@ -31,7 +31,7 @@ This current project name is just one that I chose at random from the following 
     ```
     _Note:_ Later we will add sensitive data to this file (this api key is fine thanks to [RLS](https://supabase.com/docs/guides/auth/row-level-security)), but as good practice we never want to share `.env` files so it has been added to the [gitignore](./.gitignore) file.
 
-1.  Open a terminal window (or the integrated one in your IDE), and making sure to be in the project root directory, run `npm start` to spin up the project which should open in your default browser.  
+1.  Open a terminal window (or the integrated one in your IDE), and making sure to be in the project root directory, run `npm start` (Ctrl + C to stop) to spin up the project which should open in your default browser.  
 The page should look like the following:
     ![](./screenshots/home_20-01-2023.png)
 
